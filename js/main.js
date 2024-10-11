@@ -28,48 +28,48 @@ const productos = [
         id: 5,
         nombre: "30/11 LAGOS DE CALAMUCHITA",
         precio: 55000,
-        img: '../img/s2w.webp'
+        img: '../img/s2.png'
     },
     {
         id: 6,
         nombre: "4/12 ARROYOS SIERRAS CHICAS",
         precio: 30000,
-        img: '../img/s7w.webp'
+        img: '../img/s7.png'
     },
     {
         id: 7,
         nombre: "7/12 RIOS DE PARAVACHASCA",
         precio: 50000,
-        img: '../img/s3w.webp'
+        img: '../img/s3.png'
     },
     {
         id: 8,
         nombre: "14/12 PARQUE NAC CONDORITO",
         precio: 60000,
-        img: '../img/s4w.webp'
+        img: '../img/s4.png'
     },
     {
         id: 9,
         nombre: "21/12 CASCADAS DE PUNILLA",
         precio: 50000,
-        img: '../img/s8w.webp'
+        img: '../img/s8.png'
     },
     {
         id: 10,
         nombre: "28/12 VOLCANES DE POCHO",
         precio: 95000,
-        img: '../img/s9w.webp'
+        img: '../img/s9.png'
     },
     {
         id: 11,
         nombre: "4/1 LAGOS SIERRAS CHICAS",
         precio: 40000,
-        img: '../img/s10w.webp'
+        img: '../img/s10.png'
     },{
         id: 12,
         nombre: "11/1 CERRO COLORADO",
         precio: 85000,
-        img: '../img/s11w.webp'
+        img: '../img/s11.png'
     },
 ]
 
