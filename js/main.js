@@ -22,7 +22,7 @@ const productos = [
         id: 4,
         nombre: "23/11 VALLE DE LOS LISOS",
         precio: 75000,
-        img: '../img/s1.jpg'
+        img: '../img/s1.png'
     },
     {
         id: 5,
